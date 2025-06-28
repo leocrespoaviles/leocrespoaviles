@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Crespo Aviles</h1>
 <h3 align="center">A Software Engineer and Android Developer</h3>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/lcadevelop](https://github.com/lcadevelop)
+- 👨‍💻 All of my projects are available at: [https://github.com/lcadevelop](https://github.com/leocrespoaviles)
 
 - 💬 Ask me about **Software. Mobile and Web Development**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lcadevelop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lcadevelop" height="30" width="40" /></a>
+<a href="https://twitter.com/leocrespoaviles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lcadevelop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lcadevelop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lcadevelop" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11121319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11121319" height="30" width="40" /></a>
 </p>
