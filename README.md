@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Crespo Aviles</h1>
 <h3 align="center">A Software Engineer and Android Developer</h3>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/lcadevelop](https://github.com/leocrespoaviles)
+- 👨‍💻 All of my projects are available at: [https://github.com/leocrespoaviles](https://github.com/leocrespoaviles)
 
 - 💬 Ask me about **Software. Mobile and Web Development**
 
