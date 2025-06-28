@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software. Mobile and Web Development**
 
-- 📫 How to reach me: **lcadevelop@gmail.com**
+- 📫 How to reach me: **leocrespoaviles@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
